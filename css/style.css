@@ -52,10 +52,10 @@ button {
 a {
     text-decoration: none;
     padding: 10px 20px;
-
 }
 a > i {
-    padding-right: 20px; }
+	padding-right: 20px; 
+}
 
 .fa {
 	color: #fff;
